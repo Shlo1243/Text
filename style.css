@@ -1,0 +1,36 @@
+body {
+color:black;
+background: rgb(0,194,188);
+background: linear-gradient(90deg, rgba(0,194,188,1) 16%, rgba(9,72,121,1) 92%);
+font-family: 'Satisfy', cursive;
+
+}
+
+#h {
+    color:black;
+}
+
+#d1 {
+    font-size:4px;
+    border-radius:20px;
+    width:80%;
+    padding:20px;
+    background: rgb(196,84,0);
+background: linear-gradient(90deg, rgba(196,84,0,1) 0%, rgba(151,52,233,1) 95%);
+font-family: 'Satisfy', cursive;
+}
+
+#Head {
+    color:black;
+    font-family: 'Satisfy', cursive;
+}
+
+canvas {
+    background-color: whitesmoke;
+    border-radius:10px;
+    box-shadow:5px 5px 30px black;
+}
+
+video {
+    margin-left:40px;
+}
